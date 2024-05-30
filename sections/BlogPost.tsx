@@ -152,18 +152,16 @@ export default function BlogPost({ page }: Props) {
       ></div>
       <div class="flex flex-col gap-10 max-w-3xl w-full mx-auto">
         <div class="space-y-4">
-          <p class="text-lg font-bold">Share this post</p>
           <div class="flex flex-col gap-8 md:flex-row justify-between">
-            <SocialIcons />
             <div class="flex gap-2 text-white text-xs">
               <p class="flex items-center bg-zinc-700 py-2 px-4 rounded-full">
-                Tag #1
+                #tech
               </p>
               <p class="flex items-center bg-zinc-700 py-2 px-4 rounded-full">
-                Tag #2
+                #web
               </p>
               <p class="flex items-center bg-zinc-700 py-2 px-4 rounded-full">
-                Tag #3
+                #javascript
               </p>
             </div>
           </div>
