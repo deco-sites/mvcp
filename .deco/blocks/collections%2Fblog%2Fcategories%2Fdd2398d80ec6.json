@@ -1,1 +1,8 @@
-{"name":"collections/blog/categories/dd2398d80ec6","__resolveType":"blog/loaders/Category.ts","category":{"name":"Performance","slug":"performance"}}
+{
+  "name": "collections/blog/categories/dd2398d80ec6",
+  "__resolveType": "blog/loaders/Category.ts",
+  "category": {
+    "name": "Tech",
+    "slug": "tech"
+  }
+}
